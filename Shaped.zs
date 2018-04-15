@@ -2,9 +2,13 @@
 ##                                                              ##
 ##         Created by Daniel Clark   01/31/2018                 ##
 ##                                                              ##
+##                                                              ##
+##      Place this file in minecraft/world/scripts              ##
+##                                                              ##
+##                                                              ##
 ##################################################################
 
-print("Initializing 'ddc.zs'...");
+print("Initializing 'Shaped.zs'...");
 
 recipes.addShaped(<minecraft:blaze_rod>*1, [[<minecraft:blaze_powder>,<minecraft:blaze_powder>, null],[null,null,null],[null,null,null]]);
 
