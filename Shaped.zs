@@ -16,5 +16,5 @@ recipes.addShaped(<bigreactors:ingotmetals:3>*1, [[<bigreactors:ingotmetals:1>, 
 
 recipes.addShaped(<actuallyadditions:itemDust:7>*12, [[<environmentaltech:hardened_stone>, <environmentaltech:hardened_stone>, <environmentaltech:hardened_stone>],[<environmentaltech:hardened_stone>, <minecraft:dye:4>, <environmentaltech:hardened_stone>],[<environmentaltech:hardened_stone>, <environmentaltech:hardened_stone>, <environmentaltech:hardened_stone>,]]);
 
-
+recipes.addShaped(<thermalfoundation:material:164>*2, [[<thermalfoundation:material:133>, <thermalfoundation:material:128>, null], [null, null, null],[null, null, null]]);
 print("All Done");
