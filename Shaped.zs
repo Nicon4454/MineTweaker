@@ -4,7 +4,7 @@
 ##                                                              ##
 ##################################################################
 
-print("Initializing 'ddc.zs'...");
+print("Initializing 'Shaped.zs'...");
 
 recipes.addShaped(<minecraft:blaze_rod>*1, [[<minecraft:blaze_powder>,<minecraft:blaze_powder>, null],[null,null,null],[null,null,null]]);
 
@@ -14,4 +14,4 @@ recipes.addShaped(<actuallyadditions:itemDust:7>*12, [[<environmentaltech:harden
 
 recipes.addShaped(<thermalfoundation:material:164>*2, [[<thermalfoundation:material:133>, <thermalfoundation:material:128>, null], [null, null, null],[null, null, null]]);
 
-print("All Done");
+print("All Done with Shaped.zs");
